@@ -1,3 +1,6 @@
+#Amirul Maulana
+#F55123039
+
 # Data awal
 # Analisis: Data ini adalah daftar bilangan yang akan diurutkan menggunakan dua algoritma berbeda: Merge Sort dan Quick Sort.
 # Variabel `data_awal` berisi elemen-elemen yang akan menjadi input utama untuk algoritma pengurutan.
